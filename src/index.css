@@ -1,0 +1,39 @@
+/* src/index.css */
+:root {
+  /* Keep these font definitions if you like Inter */
+  font-family: Inter, system-ui, Avenir, Helvetica, Arial, sans-serif;
+  line-height: 1.5;
+  font-weight: 400;
+
+  color-scheme: light dark;
+  /* Bootstrap will manage colors, so these can be less critical */
+  /* color: rgba(255, 255, 255, 0.87); */
+  /* background-color: #242424; */ 
+
+  font-synthesis: none;
+  text-rendering: optimizeLegibility;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+body {
+  margin: 0;
+  /* display: flex; */ /* Remove flex to let Bootstrap's layout system take over */
+  /* place-items: center; */
+  min-width: 320px;
+  min-height: 100vh;
+  /* Bootstrap's default body background is light, so this can be removed or changed */
+  /* background-color: #f8f9fa; */ 
+  /* color: #343a40; */
+}
+
+/* Basic reset for elements - Bootstrap handles many of these */
+h1, h2, h3, h4, h5, h6, p {
+  margin-top: 0;
+  margin-bottom: 0.5rem;
+}
+
+/* Optional: If you want a specific background color for the whole site */
+body {
+  background-color: #f8f9fa; /* Example: light background */
+}
