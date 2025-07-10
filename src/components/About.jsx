@@ -111,6 +111,7 @@ const About = () => {
                   <li className="mb-3">
                     
                     <strong>Web Application Security Testing</strong> 
+                    <br/>
                     <small>
                        Assessed web applications for vulnerabilities,
                       including SQL injection and XSS attacks, and implemented
@@ -119,6 +120,7 @@ const About = () => {
                   </li>
                   <li>
                     <strong>Cloud Deployment on AWS</strong> 
+                    <br/>
                     <small>
                        Designed and deployed scalable applications on
                       AWS using EC2, S3, and CloudFormation templates. 
