@@ -112,7 +112,7 @@ const About = () => {
                     
                     <strong>Web Application Security Testing</strong> 
                     <small>
-                      Assessed web applications for vulnerabilities,
+                       Assessed web applications for vulnerabilities,
                       including SQL injection and XSS attacks, and implemented
                       secure coding practices. 
                     </small>
@@ -120,7 +120,7 @@ const About = () => {
                   <li>
                     <strong>Cloud Deployment on AWS</strong> 
                     <small>
-                      Designed and deployed scalable applications on
+                       Designed and deployed scalable applications on
                       AWS using EC2, S3, and CloudFormation templates. 
                     </small>
                   </li>
