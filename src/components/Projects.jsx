@@ -1,8 +1,8 @@
-// src/components/Projects.jsx
+
 import React from "react";
 import { Container, Row, Col, Card, Button } from "react-bootstrap";
 
-// Define your project data here
+
 const projectsData = [
   {
     id: 1,
@@ -10,13 +10,13 @@ const projectsData = [
     description:
       'A classic "guess the number" game, demonstrating basic JavaScript logic and user interaction.',
     demoLink: "https://mali5897.github.io/GuessANumber/",
-    githubRepoLink: "https://github.com/mali5897/GuessANumber", // Assuming repo name matches
+    githubRepoLink: "https://github.com/mali5897/GuessANumber", 
   },
   {
     id: 2,
     title: "Tree and Book",
     description:
-      "A small web project, possibly a static site or a simple interactive page, showcasing HTML/CSS design.",
+      "A small web project, a simple interactive page, showcasing HTML/CSS design.",
     demoLink: "https://mali5897.github.io/TreeAndBook/",
     githubRepoLink: "https://github.com/mali5897/TreeAndBook",
   },
@@ -24,7 +24,7 @@ const projectsData = [
     id: 3,
     title: "Rock, Paper, Scissors",
     description:
-      "An interactive implementation of the classic rock, paper, scissors game, likely built with JavaScript.",
+      "An interactive implementation of the classic rock, paper, scissors game, built with JavaScript.",
     demoLink: "https://mali5897.github.io/rock_papers_scissors/",
     githubRepoLink: "https://github.com/mali5897/rock_papers_scissors",
   },
@@ -48,7 +48,7 @@ const projectsData = [
     id: 6,
     title: "Odin Recipes",
     description:
-      "A project from The Odin Project curriculum, likely an introductory HTML/CSS site for recipes.",
+      "A project from The Odin Project curriculum, an introductory HTML/CSS site for recipes.",
     demoLink: "https://mali5897.github.io/odin-recipes/",
     githubRepoLink: "https://github.com/mali5897/odin-recipes",
   },
